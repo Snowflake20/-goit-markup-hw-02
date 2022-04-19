@@ -1,0 +1,176 @@
+.page{
+    background-color: #FFFFFF ;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+/* шапка сайту */
+.Web{
+    color: #2196F3;
+    margin-right: -4px;;
+}
+.Studio{
+    color: #000000
+}
+.Studio-white{
+    color: white;
+}
+.Web, .Studio,.Studio-white{
+    font-family: 'Raleway',sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.site-nav .link:hover,
+.site-nav .link:focus{
+    color: #2196f3;
+}
+.link{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+#studio{
+    color: #2196f3;
+}
+#portfolio{
+    color: #2196f3;
+}
+.contact-link{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.contact-link:hover,
+.contact-link:focus{
+    color: #2196f3;
+}
+/* hero */
+.hero{
+    background: #2F303A;
+}
+.hero-title{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em; 
+    color: #FFFFFF;
+}
+.button{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+.button:hover,
+.button:focus{
+    background-color: #188CE8;
+}
+/* особенности */
+.one-ring {
+    visibility: hidden;
+  }
+
+.title{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+/* <!-- Чем мы занимаемся --> */
+.section-title{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+/* <!-- Наша команда --> */
+.section{
+    background: #F5F4FA;
+}
+.name{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;
+}
+.position{
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+}
+/* <!-- подвал --> */
+.footer{
+    background-color:#2F303A;
+}
+.text-info{
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.info{
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.info:hover,
+.info:focus{
+    color: #FFFFFF;
+}
+
+/* portfolio */
+.filter-name{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.filter-direction{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0.03em;
+    color: #757575;
+    
+}
